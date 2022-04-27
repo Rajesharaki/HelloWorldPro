@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rajesha T K\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {}
+    "C:\\Users\\Rajesha T K\\Desktop\\Ashok\\HelloWorldPro\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rajesha T K\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.csproj": {
+    "C:\\Users\\Rajesha T K\\Desktop\\Ashok\\HelloWorldPro\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rajesha T K\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Rajesha T K\\Desktop\\Ashok\\HelloWorldPro\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "C:\\Users\\Rajesha T K\\Desktop\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Rajesha T K\\Desktop\\Ashok\\HelloWorldPro\\HelloWorld\\HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Rajesha T K\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rajesha T K\\Desktop\\HelloWorld\\HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Rajesha T K\\Desktop\\Ashok\\HelloWorldPro\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Rajesha T K\\AppData\\Roaming\\NuGet\\NuGet.Config",
